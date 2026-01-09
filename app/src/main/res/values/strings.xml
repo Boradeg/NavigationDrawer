@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">NavDrawerTask</string>
+    <string name="menu">Menu</string>
+    <string name="search">Search</string>
+    <string name="message">Message</string>
+    <string name="notifications">Notifications</string>
+    <string name="apps">Apps</string>
+    <string name="help_more">Help More</string>
+    <string name="profile_image">Profile Image</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="menu_">Menu</string>
+    <string name="rate_us">Rate Us</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="ind_in_en">IND-IN-EN</string>
+    <string name="home">Home</string>
+    <string name="home_screen">Home Screen</string>
+    <string name="see_less">See Less</string>
+    <string name="see_more">See More</string>
+</resources>
