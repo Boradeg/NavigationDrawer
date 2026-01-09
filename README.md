@@ -17,7 +17,6 @@ The drawer displays the **user profile** and a list of **apps**, initially showi
 * **Seamless UI:** Built entirely with **Jetpack Compose**.  
 * **Reactive State Management:** Uses **StateFlow** and **ViewModel** to manage UI state.  
 * **Clean Architecture:** Strict separation of **Data, Domain, and Presentation** layers.  
-* **Secure Token Handling:** API requests include an **Authorization token** stored securely in `BuildConfig`.  
 * **Robust API Handling:** Retrofit with structured error handling ensures reliable API communication.  
 
 ---
@@ -37,7 +36,7 @@ The drawer displays the **user profile** and a list of **apps**, initially showi
 
 ### **Networking & Security**
 * **Retrofit & OkHttp:** API integration with interceptors for secure token management.  
-* **Secure Token & Base URL:** Stored in `BuildConfig` for safety and flexibility.  
+* **Secure Base URL:** Stored in `BuildConfig` for safety and flexibility.  
 * **Sealed Classes:** Encapsulate API states (Loading, Success, Error) for clean UI logic.  
 
 ---
