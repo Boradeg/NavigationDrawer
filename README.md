@@ -7,7 +7,9 @@ The drawer displays the **user profile** and a list of **apps**, initially showi
 
 ---
 
-## 📱 Features
+## APK - https://drive.google.com/file/d/1Edk7hSlzfxX4UvgQILito-HUoA_9CXXn/view?usp=drive_link
+
+## 📱 Features   
 
 * **Dynamic Navigation Drawer:** Fetches menu items and profile info from API.  
 * **Profile Section:** Shows the user’s name and profile picture.  
